@@ -6,7 +6,7 @@ Software Engineer
 
 A committed, hands-on software engineer with strong theoretical and technical skills as well as a willingness to learn.
 
-* 🌍  I'm based in Yalova
+* 🌍  I'm based in İzmir
 * ✉️  You can contact me at [halukuyumsal@gmail.com](mailto:halukuyumsal@gmail.com)
 * 🧠  I'm learning Spring Boot, Node.js
 
